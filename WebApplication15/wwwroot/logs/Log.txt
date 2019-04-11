@@ -1,0 +1,2 @@
+2019-04-10 19:33:01,916 [ERROR] (6) WebApplication15.Controllers.HomeController - System.DivideByZeroException: Попытка деления на нуль.
+   в WebApplication15.Controllers.HomeController.Contact() в C:\Users\User\Source\Repos\WebApplication15\WebApplication15\Controllers\HomeController.cs:строка 36
